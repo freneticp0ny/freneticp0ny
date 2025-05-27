@@ -1,4 +1,4 @@
-![NK9Xp (1)](https://github.com/user-attachments/assets/f686a326-dc31-446f-b16a-947d732f94dd)
+![NK9Xp](https://github.com/user-attachments/assets/209ee155-7a9b-42d9-a08c-e27d529258f4)
 
 - Currently working on learning Git and AWS Cloud
 - Ask me about **phishing** :fishsticks:
