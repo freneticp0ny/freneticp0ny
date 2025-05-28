@@ -3,4 +3,6 @@
 - Currently working on learning Git and AWS Cloud
 - Ask me about **phishing** :fishsticks:
 - How to reach me: [@ninjio nea](https://getjobber.slack.com/team/U07EPMSKDCL) on Slack
-- Fun fact: I can quote the `V for Vendetta` "V" speech from memory
+- Fun fact/s:
+  - I can quote the `V for Vendetta` "V" speech from memory
+  - 'freneticpony' is David Sarif's username in Deus Ex: Mankind Divided ☝️
