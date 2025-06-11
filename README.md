@@ -3,4 +3,4 @@
 - How to reach me: [@ninjio nea](https://getjobber.slack.com/team/U07EPMSKDCL) on Slack
 - Fun fact/s:
   - I can quote the `V for Vendetta` "V" speech from memory
-  - 'freneticpony' is David Sarif's username in Deus Ex: Mankind Divided ☝️
+  - 'freneticpony' is David Sarif's username in Deus Ex: Mankind Divided 🦾
